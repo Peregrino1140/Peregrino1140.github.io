@@ -1,24 +1,18 @@
 ---
 layout: pilgrimage
-title: "Travel a Forested Path"
-categories: [ East Asia, 9th century ]
-mapurl: "https://www.google.com/maps/place/39°09'57.2%22N+86°31'32.4%22W/@39.1658751,-86.5256635,17z/data=!3m1!4b1!4m4!3m3!8m2!3d39.1658751!4d-86.5256635"
-clue: "Find me at the bench in the center of Dunn's Woods."
+title: "*Plus Ultra*"
+categories: [ Spain, 12th century ]
+mapurl: "https://www.google.com/maps/place/Hispanic+Society+Museum+%26+Library/@40.8328421,-73.9473248,17z/data=!4m14!1m7!3m6!1s0x89c2f6860b89dbbf:0x7c0077eac0f5ba23!2sHispanic+Society+Museum+%26+Library!8m2!3d40.833183!4d-73.946091!16zL20vMDcwZ21j!3m5!1s0x89c2f6860b89dbbf:0x7c0077eac0f5ba23!8m2!3d40.833183!4d-73.946091!16zL20vMDcwZ21j?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
+clue: "Go Beyond the Bronx River."
 shortdesc: >
-    Rain or shine, members of our community follow these tree-lined labyrinthine paths with the presence of the first holy person to walk these routes guiding them. Whether they observe the nature of beauty in isolation or seek the spiritual company of fellow travelers, each pilgrim crosses a boundary from the bustle of the brick-lined paths of the outside world into a quiet, contemplative forested preserve.
-lat: "39.1658751"
-long: "-86.5256635"
-medievalparalleltitle: "Shikoku Henro"
-medievalmapurl: "https://www.google.com/maps/place/Ryozenji+Temple/@34.1596727,134.4999519,17z/data=!4m14!1m7!3m6!1s0x355371e674b682e3:0xb3d020fcc0b36321!2sRyozenji+Temple!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q!3m5!1s0x355371e674b682e3:0xb3d020fcc0b36321!8m2!3d34.1596727!4d134.5025268!16s%2Fm%2F0gmbx8q"
+    The treasures of the Spanish Empire and its legacy in the Americas await pilgrims who venture to these venerable halls built by philanthropist and Hispanist Archer Milton Huntington and adorned with statues crafted by his wife and renowned artist Anna Hyatt Huntington.
+lat: "40.8328421"
+long: "-73.9473248"
+medievalparalleltitle: "San Lorenzo de El Escorial"
+medievalmapurl: "https://www.google.com/maps/place/San+Lorenzo+de+El+Escorial,+Madrid,+Spain/@40.5914157,-4.1439069,14z/data=!3m1!4b1!4m6!3m5!1s0xd410a2f2d32c683:0xa78e7cd71796cfbc!8m2!3d40.5932366!4d-4.1472971!16zL20vMDFzMm5n?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
 medievalparallel: |
-    Buddhist priest Kūkai was born Saeki no Mao (Mao, of the Saeki family) on the island of Shikoku in Japan. His early studies led to a life of ascetic and meditative practices as a Buddhist and an administrator in 9th century Japan. His writings on Buddhism in the Japanese tradition led to his other name, Kōbō Daishi, or "Great Teacher".
-
-    The [Shikoku Henro](https://88shikokuhenro.jp/en/basic-knowledge/understanding-pilgrimage/), or Shikoku pilgrimage, is a circular pilgrimage to 88 sites on Shikoku associated with Kūkai's 9th-century life; much of the path is forested and offers contemplation of both the natural world and Kūkai's Buddhist teachings. A collection of folksongs from 12th-century Japan, the Ryojin Hisho, mentions the Shikoku pilgrimage among a number of other pilgrimages. One poem laments the winter pilgrimage and the trees that lose their leaves:
-
-    The mountain ascetic suffers the austerity of winter: his house of trees has lost. (*RH 305*)
-
-    By the 16th century, 88 specific sites had emerged as a pilgrimage tradition that lives on today.
-
+    Philip II of Spain (https://en.wikipedia.org/wiki/Philip_II_of_Spain) transformed the Hieronymite monastery of El Escorial into the headquarters of his global empire and filled its halls with art from around the world.
+Bibliography
     * Kim, Yung-Hee. Songs to Make the Dust Dance: The Ryojin Hisho of Twelfth-Century Japan. Berkeley, CA: University of California Press, 1994. http://ark.cdlib.org/ark:/13030/ft2f59n7x0/
 
 learnmore: |
