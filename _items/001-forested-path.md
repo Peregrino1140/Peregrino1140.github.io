@@ -10,7 +10,7 @@ lat: "40.8328421"
 long: "-73.9473248"
 medievalparalleltitle: "San Lorenzo de El Escorial"
 medievalmapurl: "https://www.google.com/maps/place/San+Lorenzo+de+El+Escorial,+Madrid,+Spain/@40.5914157,-4.1439069,14z/data=!3m1!4b1!4m6!3m5!1s0xd410a2f2d32c683:0xa78e7cd71796cfbc!8m2!3d40.5932366!4d-4.1472971!16zL20vMDFzMm5n?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D"
-medievalparallel: |
+medievalparallel:
 Philip II of Spain transformed the Hieronymite monastery of El Escorial into the headquarters of his global empire and filled its halls with art from around the world.
 Bibliography
     * Kim, Yung-Hee. Songs to Make the Dust Dance: The Ryojin Hisho of Twelfth-Century Japan. Berkeley, CA: University of California Press, 1994. http://ark.cdlib.org/ark:/13030/ft2f59n7x0/
